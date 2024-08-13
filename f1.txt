@@ -1,2 +1,8 @@
 hi i am shruti
+<<<<<<< HEAD
 i am from bangalore
+=======
+hii
+hiii
+jhifhfuhfif
+>>>>>>> main
